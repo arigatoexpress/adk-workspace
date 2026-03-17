@@ -1,0 +1,77 @@
+
+# Add this to main.py after the /run endpoint
+
+@app.get("/leads/export")
+async def export_leads(status: str = None):
+    """
+    Export leads to CSV format
+    Query params:
+        status: Optional filter by status (new, contacted, qualified, converted)
+    """
+    try:
+        leads = await lead_manager.list_leads(status=status, limit=1000)
+        
+        if not leads:
+            return {"message": "No leads found", "count": 0}
+        
+        # Convert to CSV format
+        import io
+        import csv
+        from fastapi.responses import StreamingResponse
+        
+        output = io.StringIO()
+        if leads:
+            fieldnames = list(leads[0].to_csv_row().keys())
+            writer = csv.DictWriter(output, fieldnames=fieldnames)
+            writer.writeheader()
+            for lead in leads:
+                writer.writerow(lead.to_csv_row())
+        
+        output.seek(0)
+        
+        return StreamingResponse(
+            iter([output.getvalue()]),
+            media_type="text/csv",
+            headers={
+                "Content-Disposition": f"attachment; filename=tho_leads_{status or 'all'}_{int(time.time())}.csv"
+            }
+        )
+    except Exception as e:
+        struct_logger.error("Lead export failed", error=str(e))
+        return {"error": str(e)}, 500
+
+
+@app.get("/leads/stats")
+async def get_lead_stats():
+    """Get lead statistics"""
+    try:
+        all_leads = await lead_manager.list_leads(limit=10000)
+        
+        stats = {
+            "total": len(all_leads),
+            "by_status": {},
+            "with_contact_info": 0,
+            "appointment_requested": 0,
+            "financing_discussed": 0
+        }
+        
+        for lead in all_leads:
+            # Count by status
+            stats["by_status"][lead.status] = stats["by_status"].get(lead.status, 0) + 1
+            
+            # Count with contact info
+            if lead.email or lead.phone:
+                stats["with_contact_info"] += 1
+            
+            # Count appointment requests
+            if lead.appointment_requested:
+                stats["appointment_requested"] += 1
+            
+            # Count financing discussions
+            if lead.financing_discussed:
+                stats["financing_discussed"] += 1
+        
+        return stats
+    except Exception as e:
+        struct_logger.error("Lead stats failed", error=str(e))
+        return {"error": str(e)}, 500

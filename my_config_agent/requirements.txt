@@ -1,0 +1,12 @@
+google-adk>=0.4.0
+google-cloud-aiplatform>=1.38.0
+pandas>=2.0.0
+openpyxl>=3.1.0
+reportlab>=4.0.0
+Pillow>=10.0.0
+google-cloud-firestore>=2.16.0
+pydantic>=2.0.0
+openpyxl
+fastapi
+uvicorn
+redis>=5.0.0

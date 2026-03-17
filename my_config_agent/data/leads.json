@@ -1,0 +1,10 @@
+[
+  {
+    "event_type": "LEAD_CAPTURE",
+    "timestamp": "2026-02-09T07:26:32.422140",
+    "name": "John Doe",
+    "phone": "555-123-4567",
+    "notes": "Looking for a 3 bedroom double wide.",
+    "source": "AI_AGENT"
+  }
+]

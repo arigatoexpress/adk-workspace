@@ -1,0 +1,617 @@
+[
+  {
+    "id": "28102",
+    "website_id": "28102",
+    "serial_number": "28102",
+    "manufacturer": "TRU Homes",
+    "model_name": "TRU Single Section Delight",
+    "classification": "Single Wide",
+    "status": "Available",
+    "specs": {
+      "beds": 2,
+      "baths": 2,
+      "sq_ft": 820
+    },
+    "pricing": {
+      "price_value": 0,
+      "display_price": "NEW YEAR CLEARANCE - Call for Price",
+      "price_tier": "Clearance"
+    },
+    "features": [
+      "New Year Clearance Sale"
+    ],
+    "marketing_tags": [
+      "clearance",
+      "sale"
+    ],
+    "image_url": "https://d132mt2yijm03y.cloudfront.net/manufacturer/2007/floorplan/222250/DELIGHT.jpg",
+    "gallery_images": [
+      "https://d132mt2yijm03y.cloudfront.net/manufacturer/2007/floorplan/222250/DELIGHT.jpg",
+      "https://d132mt2yijm03y.cloudfront.net/manufacturer/2007/floorplan/222250/DELIGHT%203D.jpg"
+    ]
+  },
+  {
+    "id": "30643",
+    "website_id": "30643",
+    "serial_number": "30643",
+    "manufacturer": "TRU Homes",
+    "model_name": "TRU Single Section Glory",
+    "classification": "Single Wide",
+    "status": "Available",
+    "specs": {
+      "beds": 3,
+      "baths": 2,
+      "sq_ft": 1064
+    },
+    "pricing": {
+      "price_value": 0,
+      "display_price": "NEW YEAR CLEARANCE - Call for Price",
+      "price_tier": "Clearance"
+    },
+    "features": [
+      "New Year Clearance Sale"
+    ],
+    "marketing_tags": [
+      "clearance",
+      "sale"
+    ],
+    "image_url": "https://d132mt2yijm03y.cloudfront.net/manufacturer/2007/floorplan/222251/GLORY.jpg",
+    "gallery_images": []
+  },
+  {
+    "id": "42155",
+    "website_id": "42155",
+    "serial_number": "42155",
+    "manufacturer": "Jessup Housing",
+    "model_name": "The Nassau FAC28483A",
+    "classification": "Double Wide",
+    "status": "Available",
+    "specs": {
+      "beds": 3,
+      "baths": 2,
+      "sq_ft": 1264
+    },
+    "pricing": {
+      "price_value": 0,
+      "display_price": "Call for Price",
+      "price_tier": "Promotional Series"
+    },
+    "features": [
+      "Open-concept living",
+      "Modern finishes",
+      "Promotional Series"
+    ],
+    "marketing_tags": [
+      "family",
+      "promotional"
+    ],
+    "image_url": "https://d132mt2yijm03y.cloudfront.net/manufacturer/3328/floorplan/233614/1.jpg",
+    "gallery_images": [
+      "https://d132mt2yijm03y.cloudfront.net/manufacturer/3328/floorplan/233614/1.jpg",
+      "https://d132mt2yijm03y.cloudfront.net/manufacturer/3328/floorplan/233614/2.jpg",
+      "https://d132mt2yijm03y.cloudfront.net/manufacturer/3328/floorplan/233614/3.jpg",
+      "https://d132mt2yijm03y.cloudfront.net/manufacturer/3328/floorplan/233614/4.jpg",
+      "https://d132mt2yijm03y.cloudfront.net/manufacturer/3328/floorplan/233614/5.jpg"
+    ]
+  },
+  {
+    "id": "42156",
+    "website_id": "42156",
+    "serial_number": "42156",
+    "manufacturer": "Jessup Housing",
+    "model_name": "The Jackson ELS16763D",
+    "classification": "Single Wide",
+    "status": "Available",
+    "specs": {
+      "beds": 3,
+      "baths": 2,
+      "sq_ft": 1064
+    },
+    "pricing": {
+      "price_value": 0,
+      "display_price": "Call for Price",
+      "price_tier": "Elite Series"
+    },
+    "features": [
+      "Elite Series"
+    ],
+    "marketing_tags": [
+      "elite"
+    ],
+    "image_url": "https://d132mt2yijm03y.cloudfront.net/manufacturer/3328/floorplan/233615/1.jpg",
+    "gallery_images": []
+  },
+  {
+    "id": "42688",
+    "website_id": "42688",
+    "serial_number": "42688",
+    "manufacturer": "Clayton Homes",
+    "model_name": "Anatolia XL SLT28683AH",
+    "classification": "Double Wide",
+    "status": "Available",
+    "specs": {
+      "beds": 4,
+      "baths": 3,
+      "sq_ft": 1904
+    },
+    "pricing": {
+      "price_value": 154597,
+      "display_price": "$154,597",
+      "price_tier": "$150k+"
+    },
+    "features": [
+      "Independent",
+      "4 Bedroom",
+      "XL Floor Plan"
+    ],
+    "marketing_tags": [
+      "large-family",
+      "spacious"
+    ],
+    "image_url": "https://d132mt2yijm03y.cloudfront.net/manufacturer/3040/floorplan/230840/1.jpg",
+    "gallery_images": []
+  },
+  {
+    "id": "42689",
+    "website_id": "42689",
+    "serial_number": "42689",
+    "manufacturer": "Champion Homes",
+    "model_name": "The Mariner CEE16763EH",
+    "classification": "Single Wide",
+    "status": "Available",
+    "specs": {
+      "beds": 3,
+      "baths": 2,
+      "sq_ft": 1064
+    },
+    "pricing": {
+      "price_value": 0,
+      "display_price": "Call for Price",
+      "price_tier": "Epic Experience"
+    },
+    "features": [
+      "Epic Experience Series"
+    ],
+    "marketing_tags": [
+      "epic"
+    ],
+    "image_url": "https://d132mt2yijm03y.cloudfront.net/manufacturer/3010/floorplan/230841/1.jpg",
+    "gallery_images": []
+  },
+  {
+    "id": "43372",
+    "website_id": "43372",
+    "serial_number": "43372",
+    "manufacturer": "Champion Homes",
+    "model_name": "Creole 3256H32447",
+    "classification": "Double Wide",
+    "status": "Available",
+    "specs": {
+      "beds": 3,
+      "baths": 2,
+      "sq_ft": 1920
+    },
+    "pricing": {
+      "price_value": 153177,
+      "display_price": "$153,177",
+      "price_tier": "$150k+"
+    },
+    "features": [
+      "Premier Series"
+    ],
+    "marketing_tags": [
+      "premier"
+    ],
+    "image_url": "https://d132mt2yijm03y.cloudfront.net/manufacturer/3010/floorplan/232447/1.jpg",
+    "gallery_images": []
+  },
+  {
+    "id": "43790",
+    "website_id": "43790",
+    "serial_number": "43790",
+    "manufacturer": "Champion Homes",
+    "model_name": "Bourbon 3276H42398",
+    "classification": "Double Wide",
+    "status": "Available",
+    "specs": {
+      "beds": 4,
+      "baths": 2,
+      "sq_ft": 2305
+    },
+    "pricing": {
+      "price_value": 0,
+      "display_price": "Call for Price",
+      "price_tier": "Premier Series"
+    },
+    "features": [
+      "Premier Series",
+      "4 Bedroom"
+    ],
+    "marketing_tags": [
+      "premier",
+      "large-family"
+    ],
+    "image_url": "https://d132mt2yijm03y.cloudfront.net/dealer/3522/floorplan/skyline%20bourbon.jpg",
+    "gallery_images": [
+      "https://d132mt2yijm03y.cloudfront.net/dealer/3522/floorplan/3276H42398-kit-1.jpg",
+      "https://d132mt2yijm03y.cloudfront.net/dealer/3522/floorplan/3276H42398-int-1.jpg",
+      "https://d132mt2yijm03y.cloudfront.net/dealer/3522/floorplan/3276H42398-bed-1.jpg",
+      "https://d132mt2yijm03y.cloudfront.net/dealer/3522/floorplan/3276H42398-bath-1.jpg",
+      "https://d132mt2yijm03y.cloudfront.net/dealer/3522/floorplan/3276H42398-ext-1.jpg"
+    ]
+  },
+  {
+    "id": "43798",
+    "website_id": "43798",
+    "serial_number": "43798",
+    "manufacturer": "Schult Homes",
+    "model_name": "El Capitan 32SAP32563AH",
+    "classification": "Double Wide",
+    "status": "Available",
+    "specs": {
+      "beds": 3,
+      "baths": 2,
+      "sq_ft": 1792
+    },
+    "pricing": {
+      "price_value": 167991,
+      "display_price": "$167,991",
+      "price_tier": "$150k+"
+    },
+    "features": [
+      "Alpine Series"
+    ],
+    "marketing_tags": [
+      "alpine",
+      "premium"
+    ],
+    "image_url": "https://d132mt2yijm03y.cloudfront.net/manufacturer/3328/floorplan/232563/1.jpg",
+    "gallery_images": []
+  },
+  {
+    "id": "43940",
+    "website_id": "43940",
+    "serial_number": "43940",
+    "manufacturer": "TRU Homes",
+    "model_name": "Triumph TRU28765AH",
+    "classification": "Double Wide",
+    "status": "Available",
+    "specs": {
+      "beds": 4,
+      "baths": 2,
+      "sq_ft": 1820
+    },
+    "pricing": {
+      "price_value": 0,
+      "display_price": "Call for Price",
+      "price_tier": "TRU Multi Section"
+    },
+    "features": [
+      "TRU Multi Section",
+      "4 Bedroom"
+    ],
+    "marketing_tags": [
+      "tru",
+      "multi-section"
+    ],
+    "image_url": "https://d132mt2yijm03y.cloudfront.net/manufacturer/2007/floorplan/228765/1.jpg",
+    "gallery_images": []
+  },
+  {
+    "id": "43941",
+    "website_id": "43941",
+    "serial_number": "43941",
+    "manufacturer": "TRU Homes",
+    "model_name": "Satisfaction TRU28483RH",
+    "classification": "Double Wide",
+    "status": "Available",
+    "specs": {
+      "beds": 3,
+      "baths": 2,
+      "sq_ft": 1344
+    },
+    "pricing": {
+      "price_value": 0,
+      "display_price": "Call for Price",
+      "price_tier": "TRU Multi Section"
+    },
+    "features": [
+      "TRU Multi Section"
+    ],
+    "marketing_tags": [
+      "tru",
+      "multi-section"
+    ],
+    "image_url": "https://d132mt2yijm03y.cloudfront.net/manufacturer/2007/floorplan/228483/1.jpg",
+    "gallery_images": []
+  },
+  {
+    "id": "43942",
+    "website_id": "43942",
+    "serial_number": "43942",
+    "manufacturer": "Clayton Homes",
+    "model_name": "The Pt 78 SLT28563D",
+    "classification": "Double Wide",
+    "status": "Available",
+    "specs": {
+      "beds": 3,
+      "baths": 2,
+      "sq_ft": 1568
+    },
+    "pricing": {
+      "price_value": 122132,
+      "display_price": "$122,132",
+      "price_tier": "$100k-$150k"
+    },
+    "features": [
+      "Solution Series"
+    ],
+    "marketing_tags": [
+      "solution",
+      "value"
+    ],
+    "image_url": "https://d132mt2yijm03y.cloudfront.net/manufacturer/3040/floorplan/228563/1.jpg",
+    "gallery_images": []
+  },
+  {
+    "id": "44490",
+    "website_id": "44490",
+    "serial_number": "44490",
+    "manufacturer": "Pre-Owned",
+    "model_name": "Big Blue",
+    "classification": "Double Wide",
+    "status": "Available",
+    "specs": {
+      "beds": 3,
+      "baths": 2,
+      "sq_ft": 1400
+    },
+    "pricing": {
+      "price_value": 0,
+      "display_price": "Call for Price",
+      "price_tier": "Pre-Owned"
+    },
+    "features": [
+      "Pre-Owned"
+    ],
+    "marketing_tags": [
+      "pre-owned",
+      "budget"
+    ],
+    "image_url": "https://d132mt2yijm03y.cloudfront.net/dealer/3522/inventory/44490/1.jpg",
+    "gallery_images": []
+  },
+  {
+    "id": "44491",
+    "website_id": "44491",
+    "serial_number": "44491",
+    "manufacturer": "Pre-Owned",
+    "model_name": "The Cottage",
+    "classification": "Single Wide",
+    "status": "Available",
+    "specs": {
+      "beds": 2,
+      "baths": 1,
+      "sq_ft": 800
+    },
+    "pricing": {
+      "price_value": 0,
+      "display_price": "Call for Price",
+      "price_tier": "Pre-Owned"
+    },
+    "features": [
+      "Pre-Owned"
+    ],
+    "marketing_tags": [
+      "pre-owned",
+      "budget"
+    ],
+    "image_url": "https://d132mt2yijm03y.cloudfront.net/dealer/3522/inventory/44491/1.jpg",
+    "gallery_images": []
+  },
+  {
+    "id": "41976",
+    "website_id": "41976",
+    "serial_number": "41976",
+    "manufacturer": "Jessup Housing",
+    "model_name": "The Rosewood FAC28644A",
+    "classification": "Double Wide",
+    "status": "Available",
+    "specs": {
+      "beds": 4,
+      "baths": 2,
+      "sq_ft": 1792
+    },
+    "pricing": {
+      "price_value": 0,
+      "display_price": "Call for Price",
+      "price_tier": "Promotional Series"
+    },
+    "features": [
+      "Promotional Series",
+      "4 Bedroom"
+    ],
+    "marketing_tags": [
+      "promotional",
+      "large-family"
+    ],
+    "image_url": "https://d132mt2yijm03y.cloudfront.net/manufacturer/3328/floorplan/228644/1.jpg",
+    "gallery_images": []
+  },
+  {
+    "id": "28527",
+    "website_id": "28527",
+    "serial_number": "28527",
+    "manufacturer": "Legacy Housing",
+    "model_name": "Heritage 1672-32C",
+    "classification": "Single Wide",
+    "status": "Available",
+    "specs": {
+      "beds": 3,
+      "baths": 2,
+      "sq_ft": 1152
+    },
+    "pricing": {
+      "price_value": 40000,
+      "display_price": "$40,000",
+      "price_tier": "Under $50k"
+    },
+    "features": [
+      "Pre-Owned"
+    ],
+    "marketing_tags": [
+      "pre-owned",
+      "budget",
+      "affordable"
+    ],
+    "image_url": "https://d132mt2yijm03y.cloudfront.net/dealer/3522/inventory/28527/1.jpg",
+    "gallery_images": []
+  },
+  {
+    "id": "28966",
+    "website_id": "28966",
+    "serial_number": "28966",
+    "manufacturer": "Legacy Housing",
+    "model_name": "Select Legacy S-1672-32B",
+    "classification": "Single Wide",
+    "status": "Available",
+    "specs": {
+      "beds": 3,
+      "baths": 2,
+      "sq_ft": 1152
+    },
+    "pricing": {
+      "price_value": 45900,
+      "display_price": "$45,900",
+      "price_tier": "Under $50k"
+    },
+    "features": [
+      "Pre-Owned"
+    ],
+    "marketing_tags": [
+      "pre-owned",
+      "budget",
+      "affordable"
+    ],
+    "image_url": "https://d132mt2yijm03y.cloudfront.net/dealer/3522/inventory/28966/1.jpg",
+    "gallery_images": []
+  },
+  {
+    "id": "30641",
+    "website_id": "30641",
+    "serial_number": "30641",
+    "manufacturer": "Legacy Housing",
+    "model_name": "Select Legacy S-2468-42A",
+    "classification": "Double Wide",
+    "status": "Available",
+    "specs": {
+      "beds": 4,
+      "baths": 2,
+      "sq_ft": 1632
+    },
+    "pricing": {
+      "price_value": 63900,
+      "display_price": "$63,900",
+      "price_tier": "$50k-$75k"
+    },
+    "features": [
+      "Pre-Owned",
+      "4 Bedroom"
+    ],
+    "marketing_tags": [
+      "pre-owned",
+      "budget",
+      "large-family"
+    ],
+    "image_url": "https://d132mt2yijm03y.cloudfront.net/dealer/3522/inventory/30641/1.jpg",
+    "gallery_images": []
+  },
+  {
+    "id": "43943",
+    "website_id": "43943",
+    "serial_number": "43943",
+    "manufacturer": "Legacy Housing",
+    "model_name": "Select S-1272-32A",
+    "classification": "Single Wide",
+    "status": "Available",
+    "specs": {
+      "beds": 3,
+      "baths": 2,
+      "sq_ft": 864
+    },
+    "pricing": {
+      "price_value": 29900,
+      "display_price": "$29,900",
+      "price_tier": "Under $50k"
+    },
+    "features": [
+      "Pre-Owned"
+    ],
+    "marketing_tags": [
+      "pre-owned",
+      "budget",
+      "starter"
+    ],
+    "image_url": "https://d132mt2yijm03y.cloudfront.net/dealer/3522/inventory/43943/1.jpg",
+    "gallery_images": []
+  },
+  {
+    "id": "43944",
+    "website_id": "43944",
+    "serial_number": "43944",
+    "manufacturer": "Legacy Housing",
+    "model_name": "Select S-1256-21A",
+    "classification": "Single Wide",
+    "status": "Available",
+    "specs": {
+      "beds": 2,
+      "baths": 1,
+      "sq_ft": 672
+    },
+    "pricing": {
+      "price_value": 20000,
+      "display_price": "$20,000",
+      "price_tier": "Under $50k"
+    },
+    "features": [
+      "Pre-Owned"
+    ],
+    "marketing_tags": [
+      "pre-owned",
+      "budget",
+      "starter",
+      "compact"
+    ],
+    "image_url": "https://d132mt2yijm03y.cloudfront.net/dealer/3522/inventory/43944/1.jpg",
+    "gallery_images": []
+  },
+  {
+    "id": "43945",
+    "website_id": "43945",
+    "serial_number": "43945",
+    "manufacturer": "Legacy Housing",
+    "model_name": "Heritage 1684-32A",
+    "classification": "Single Wide",
+    "status": "Available",
+    "specs": {
+      "beds": 3,
+      "baths": 2,
+      "sq_ft": 1344
+    },
+    "pricing": {
+      "price_value": 40000,
+      "display_price": "$40,000",
+      "price_tier": "Under $50k"
+    },
+    "features": [
+      "Pre-Owned"
+    ],
+    "marketing_tags": [
+      "pre-owned",
+      "budget",
+      "affordable"
+    ],
+    "image_url": "https://d132mt2yijm03y.cloudfront.net/dealer/3522/inventory/43945/1.jpg",
+    "gallery_images": []
+  }
+]
