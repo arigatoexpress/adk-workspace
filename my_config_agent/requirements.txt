@@ -3,7 +3,7 @@ google-cloud-aiplatform>=1.156.0
 pandas>=2.0.0
 openpyxl>=3.1.0
 reportlab>=4.0.0
-Pillow>=10.0.0
+Pillow>=12.2.0
 google-cloud-firestore>=2.27.0
 pydantic>=2.13.4
 openpyxl
